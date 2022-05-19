@@ -1,4 +1,6 @@
 **GASONERG GROUP CONSOLES**
+![This is an image](https://github.com/g-consoles/.github/blob/Assets/profile/IMG-20220519-WA0000.jpg)
+
 We are SWIFTER© IoT Marketplace builders and value innovators, and deploy evolving technologies to among other things: solve everyday problems in Gas, Oil and Energy industry, carry on other  businesses under the Group that will benefit the company and the larger society.
 
 We believe that our problem solving approach should be comprehensive, iterative and keep up with  the  pace of technological advancements of the times.  This principle enables us to combine IoTs, Hardware design and integration to deliver solutions that are SWIFTER - safer, wider, interactive, fairer, transparent, efficient and robust.   
