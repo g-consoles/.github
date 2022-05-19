@@ -5,3 +5,10 @@ We believe that our problem solving approach should be comprehensive, iterative 
 We leverage strategic partnerships, coupled with our internal team of professionals from multiple industries whose impeccable academic and practical experiences in operations, management, Sales, business development, IT, legal, marketing, product development put us a step ahead of the competion.
 
 We deploy solutions that are tailor-made and fit local and jurisdictional requirements with a global standard in focus.
+
+CONTACT US 
+Email: info@gasonerg.com or wecare@gasonerg.com
+https://gasonerg.com
+Twitter: https://twitter.com/gasonerggroup
+Facebook: https://Facebook.com/gasonerggroup
+Instagram: https://Instagram.com/gasonerggroup
