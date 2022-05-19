@@ -8,26 +8,28 @@ We believe that our problem solving approach should be comprehensive, iterative 
 We leverage strategic partnerships, coupled with our internal team of professionals from multiple industries whose impeccable academic and practical experiences in operations, management, Sales, business development, IT, legal, marketing, product development put us a step ahead of the competion.
 
 We deploy solutions that are tailor-made and fit local and jurisdictional requirements with a global standard in focus.
+![This is an image](https://github.com/g-consoles/.github/blob/Assets/profile/IMG-20211211-WA0006.jpg
+
 
 **TEAM**
 
+**1.ABDIFATAH BASHIR AHAMED**
 ![This is an image](https://github.com/g-consoles/.github/blob/Assets/profile/IMG-20220519-WA0003.jpg)
-
-**ABDIFATAH BASHIR AHAMED**
 
 *Senior Full Stack Developer*
 
 *SKILLS*: Ionic/AngularJS/ReactJS/VueJS/
         Node/Express/Laravel/Python
 
-![This is an image](https://github.com/g-consoles/.github/blob/Assets/profile/IMG-20220519-WA0006.jpg)
-**DANIEL ASARE**
+**2.DANIEL ASARE**
+
+![This is an image](https://github.com/g-consoles/.github/blob/Assets/profile/IMG-20211211-WA0006.jpg)
 
 *VP FOR BUSINESS DEVELOPMENT &OPERATIONS*
 
 
 **CONTACT US**
-
+![This is an image](https://github.com/g-consoles/.github/blob/Assets/profile/IMG-20211211-WA0006.jpg
 Email: info@gasonerg.com or wecare@gasonerg.com
 https://gasonerg.com
 
