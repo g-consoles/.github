@@ -10,6 +10,7 @@ We leverage strategic partnerships, coupled with our internal team of profession
 We deploy solutions that are tailor-made and fit local and jurisdictional requirements with a global standard in focus.
 
 **OUR TEAM**
+![This is an image](https://github.com/g-consoles/.github/blob/Assets/profile/IMG-20220519-WA0003.jpg)
 
 **ABDIFATAH BASHIR AHAMED**
 
