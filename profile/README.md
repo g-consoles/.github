@@ -20,6 +20,7 @@ We deploy solutions that are tailor-made and fit local and jurisdictional requir
 *SKILLS*: Ionic/AngularJS/ReactJS/VueJS/
         Node/Express/Laravel/Python
 
+![This is an image](https://github.com/g-consoles/.github/blob/Assets/profile/IMG-20220519-WA0006.jpg)
 **DANIEL ASARE**
 
 *VP FOR BUSINESS DEVELOPMENT &OPERATIONS*
