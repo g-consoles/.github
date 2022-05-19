@@ -9,6 +9,15 @@ We leverage strategic partnerships, coupled with our internal team of profession
 
 We deploy solutions that are tailor-made and fit local and jurisdictional requirements with a global standard in focus.
 
+**OUR TEAM**
+
+**ABDIFATAH BASHIR AHAMED**
+
+**Senior Full Stack Developer**
+
+*SKILLS*: Ionic/AngularJS/ReactJS/VueJS/
+        Node/Express/Laravel/Python
+
 **CONTACT US**
 
 Email: info@gasonerg.com or wecare@gasonerg.com
