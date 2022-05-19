@@ -8,7 +8,7 @@ We believe that our problem solving approach should be comprehensive, iterative 
 We leverage strategic partnerships, coupled with our internal team of professionals from multiple industries whose impeccable academic and practical experiences in operations, management, Sales, business development, IT, legal, marketing, product development put us a step ahead of the competion.
 
 We deploy solutions that are tailor-made and fit local and jurisdictional requirements with a global standard in focus.
-![This is an image](https://github.com/g-consoles/.github/blob/Assets/profile/IMG-20211211-WA0006.jpg
+![This is an image](https://github.com/g-consoles/.github/blob/Assets/profile/IMG-20220401-WA0000.jpg)
 
 
 **TEAM**
@@ -29,7 +29,7 @@ We deploy solutions that are tailor-made and fit local and jurisdictional requir
 
 
 **CONTACT US**
-![This is an image](https://github.com/g-consoles/.github/blob/Assets/profile/IMG-20211211-WA0006.jpg
+![This is an image](https://github.com/g-consoles/.github/blob/Assets/profile/IMG-20211228-WA0002.jpg)
 Email: info@gasonerg.com or wecare@gasonerg.com
 https://gasonerg.com
 
